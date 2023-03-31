@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me add me on discord @deeznuts#2762
+- 📫 How to reach me add me on facebook-Rafin Tanzim
 
 <!---
 Rafinuwu/Rafinuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
